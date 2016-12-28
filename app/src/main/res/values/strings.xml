@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Erysage</string>
+    <string name="subscription_key">2c5f948e9bac485b94bed2842a75bc33</string>
+    <string name="emotion_subscription_key">1b40838b1bf948aaa97a51c738bcaa4f</string>
+    <string name="first_step_text">Step 1: Take a photo</string>
+    <string name="share_text">You want to share it?</string>
+    <string name="loading_text">Loading...</string>
+    <string name="age_text">age:</string>
+    <integer name="com_vk_sdk_AppId">5776365</integer>
+</resources>
